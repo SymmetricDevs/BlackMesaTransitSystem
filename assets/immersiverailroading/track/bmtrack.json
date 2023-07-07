@@ -1,0 +1,16 @@
+{
+  "name": "Black Mesa Transit System Track",
+  "models": {
+    ">0": "immersiverailroading:models/track/bmtrack/bmtrack.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:stone",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

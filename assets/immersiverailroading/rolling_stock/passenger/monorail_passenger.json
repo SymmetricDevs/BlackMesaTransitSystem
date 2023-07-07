@@ -1,0 +1,26 @@
+{
+	"name": "Monorail Passenger Chaircar",
+	"works": "Black Mesa",
+    "modeler": "Memeexp",
+	"pack": "Supersymmetry Trains",
+	"model": "immersiverailroading:models/rolling_stock/passenger/monorail_passenger/monorail_passenger.obj",
+	"darken_model": "-0.01",
+	"properties": {
+		"weight_kg": 20000
+	},
+	"passenger": {
+		"slots": 6,
+		"center_x": 0,
+		"center_y": 0.45,
+		"length": 3.0,
+		"width": 2.0
+	},
+	"trucks": {
+		"front": 1.5, 
+		"rear": -1.5
+	},
+	"couplers": {
+		"front_offset": 0.5,
+		"rear_offset": -0.5
+	}
+}

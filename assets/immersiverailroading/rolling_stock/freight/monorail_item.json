@@ -1,0 +1,31 @@
+{
+	"name": "Monorail Freight",
+	"works": "Black Mesa",
+	"model": "immersiverailroading:models/rolling_stock/freight/monorail_item/monorail_item.obj",
+    "modeler": "Memeexp",
+	"pack": "Supersymmetry Trains",
+	"darken_model": "-0.01",
+	"properties": {
+		"weight_kg": 20000
+	},
+	"passenger": {
+		"slots": 2,
+		"center_x": 0,
+		"center_y": 0.45,
+		"length": 3.0,
+		"width": 2.2
+	},
+	    "freight": {
+        "slots": 100,
+        "width": 10,
+        "cargo": ["all"]
+    },
+	"trucks": {
+		"front": 1.5, 
+		"rear": -1.5
+    },
+	"couplers": {
+		"front_offset": 0.5,
+		"rear_offset": -0.5
+	}
+}

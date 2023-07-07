@@ -1,0 +1,7 @@
+{
+  	"freight": ["monorail_item"],
+  	"locomotives": ["monorail_engine"],
+	"passenger": ["monorail_passenger"],
+	"tank": ["monorail_fluid"],	
+	"tender": []
+}
