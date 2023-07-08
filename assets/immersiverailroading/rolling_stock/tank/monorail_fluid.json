@@ -17,7 +17,7 @@
         "width": 1.0
     },
     "tank": {
-        "capacity_l": 64000
+        "capacity_l": 512000
     },
     "trucks": {
         "front": 1.5, 
