@@ -13,7 +13,8 @@
 		"tractive_effort_lbf": 30000,
 		"max_speed_kmh": 100,
 		"weight_kg": 22000,
-		"horn_sustained": true
+		"horn_sustained": true,
+		"radio_equipped":true
 	},
 	"passenger": {
 		"slots": 2,
