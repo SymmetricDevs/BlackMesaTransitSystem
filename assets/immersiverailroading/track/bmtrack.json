@@ -4,13 +4,9 @@
     ">0": "immersiverailroading:models/track/bmtrack/bmtrack.obj"
   },
   "materials": {
-    "TIE": [{
-      "item": "ore:stone",
-      "cost": 1
-    }],
     "RAIL": [{
-      "item": "ore:irRail",
-      "cost": 2
+      "item": "ore:trackMaglev",
+      "cost": 0.39
     }]
   }
 }
