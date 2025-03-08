@@ -8,11 +8,11 @@
 	"darken_model": "-0.01",
 	"properties": {
 		"fuel_efficiency_%": 95,
-		"fuel_capacity_l": 3200,
-		"horsepower": 400,
-		"tractive_effort_lbf": 30000,
-		"max_speed_kmh": 100,
-		"weight_kg": 22000,
+		"fuel_capacity_l": 10000,
+		"horsepower": 3000,
+		"tractive_effort_lbf": 80000,
+		"max_speed_kmh": 150,
+		"weight_kg": 12000,
 		"horn_sustained": true,
 		"radio_equipped":true
 	},
